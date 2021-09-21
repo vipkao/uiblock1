@@ -6,3 +6,5 @@ p2(物理)＋PixiJS(Canvas)で作った、ブロック崩しシステムです�
 
 https://vipkao.github.io/uiblock1/dist/
 で遊べます。
+
+背景画像：きまぐれアフター様
