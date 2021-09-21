@@ -341,7 +341,7 @@ config.stage1 = function(){
                     command.ParticleBlock.exec(b, shape.Particle('block'));
                 });
                 //分裂
-                if(i == 3 || i == 7){
+                if(i == 3){
                     behavior.BreakEventCallback.exec(b, ()=>{
                         const bl = store.Ball.getRandomOne();
                         if(bl != null){
