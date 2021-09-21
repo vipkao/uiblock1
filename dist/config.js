@@ -1,10 +1,3 @@
-///<reference path="./test001.bundle.js"/>
-
-///TODO webpackでおそらくES Modules形式で出力する方法を探る。それまでは直指定
-//import Concrete from "../src/Concrete";
-//import Element_Shape from "../src/Element_Shape";
-
-
 var config = {};
 config.start = function(){
     this.template = 'TappableOpeningPixiP2';
